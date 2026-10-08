@@ -1,0 +1,6 @@
+controlador\PreparatorioDAO.class
+conexion\Conexion.class
+vista\PreparatorioVista.class
+controlador\PreparatorioControlador.class
+modelo\Preparatorio.class
+vista\Main.class
